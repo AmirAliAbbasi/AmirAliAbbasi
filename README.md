@@ -37,9 +37,9 @@
 <h1 align="center">
     Discord User
 </h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pa9da" alt="Pa9da" /> </p>
 <div align="center">
 <h4 align="center"><samp> Pa9da ᶦᶜᵉ#0001 </samp></h4>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pa9da" alt="Pa9da" /> </p>
 </div>
 <br><br>
 
