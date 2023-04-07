@@ -18,7 +18,7 @@
 </p>
 
 <br><br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kasra-kh" alt="kasra-kh" /> </p>
+
 <h1 align="center">
     Skills
 </h1>
