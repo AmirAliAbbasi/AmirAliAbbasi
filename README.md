@@ -41,7 +41,7 @@
 
 <div align="center">
 
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/249383958289186816)
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/249383958289186816)](https://discord.com/users/249383958289186816)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pa9da" alt="Pa9da" /> </p>
 </div>
 <br><br>
