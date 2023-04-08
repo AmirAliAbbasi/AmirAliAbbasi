@@ -37,8 +37,11 @@
 <h1 align="center">
     Discord User
 </h1>
+
+
 <div align="center">
-<h4 align="center"><samp> Pa9da ᶦᶜᵉ#0001 </samp></h4>
+
+[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/916840384339013703)](https://discord.com/users/916840384339013703)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Pa9da" alt="Pa9da" /> </p>
 </div>
 <br><br>
