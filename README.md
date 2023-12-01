@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Hi, Iam Pa9da
+<h2>Hi, Iam Amir
 <img src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/apple/76/waving-hand-sign_emoji-modifier-fitzpatrick-type-1-2_1f44b-1f3fb_1f3fb.png" width="30">
 </h2>
 </div>
@@ -34,15 +34,8 @@
     <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
 </div>
 <br><br>
-<h1 align="center">
-    Discord User
-</h1>
 
 
-<div align="center">
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/249383958289186816)](https://discord.com/users/249383958289186816)
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Pa9da" alt="Pa9da" /> </p>
-</div>
 <br><br>
 
