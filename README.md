@@ -13,7 +13,7 @@
 
 <p align="center">
     <a href="https://instagram.com/pa9daa"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.gg/bigezmoge"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
+    <a href="https://discord.com/users/249383958289186816"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
     <a href="mailto:ayhername@gmail.com"><img src="https://img.shields.io/badge/Gmail-171717?style=for-the-badge&logo=gmail&logoColor=fff" alt="Gmail" style="border-radius:15px"></a>
 </p>
 
