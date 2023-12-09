@@ -1,6 +1,5 @@
 <div align="center">
-<h2>Hi, Iam AmirAli
-<img src="https://cdn.discordapp.com/emojis/1155858490024267857.png" width="30">
+<h2>👨🏻‍💻 Hello World My Name Is Amir
 </h2>
 </div>
 
