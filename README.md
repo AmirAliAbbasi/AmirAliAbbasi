@@ -36,7 +36,7 @@
 <br><br>
 
 
--   <samp>📞 Contact</samp>
+ <b>📞 Contact</b>
 
 
 <br><br>
