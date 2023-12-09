@@ -24,14 +24,14 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=fff" alt="JavaScript" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Node.js-171717?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.js" style="border-radius:15px"/>
-<br/>
     <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Adobe%20premier%20pro-171717?style=for-the-badge&logo=AdobePremierePro&logoColor=fff" alt="Adobe Premiere Pro" style="border-radius:15px"/>
+<br/>
+    <img src="https://img.shields.io/badge/Adobephotoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=fff" alt="AdobePhotoshop" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
 <br>
-    <img src="https://img.shields.io/badge/mysql-171717?style=for-the-badge&logo=mysql&logoColor=fff" alt="mysql" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/C++-171717?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++" style="border-radius:15px"/>
 </div>
 <br><br>
 
