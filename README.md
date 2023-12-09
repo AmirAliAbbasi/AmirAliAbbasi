@@ -1,6 +1,6 @@
 <div align="center">
-<h1>👨🏻‍💻 Hello World My Name Is Amir
-</h1>
+<h2>👨🏻‍💻 Hello World My Name Is Amir
+</h2>
 </div>
 
 
@@ -19,7 +19,7 @@
 <br><br>
 
 <h1 align="center">
-    Skills
+- Skills
 </h1>
 
 <div align="center">
@@ -38,3 +38,4 @@
 
 <br><br>
 
+- Contact 
