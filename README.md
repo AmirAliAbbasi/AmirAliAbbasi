@@ -5,7 +5,7 @@
 
 
 <div align="center">
-<h4 align="center"><samp> Python Developer - Logo Designer - Front-End Developer</samp></h4>
+<h4 align="center"><samp> Software Engineer - Front-End Developer - Designer - Editor - Social Engineering</samp></h4>
 </div>
 
 <br>
