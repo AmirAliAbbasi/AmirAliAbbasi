@@ -38,24 +38,18 @@
 <br><br>
 
 <h1 align="center">
-  Skills
+  Company
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/Adobe%20premier%20pro-171717?style=for-the-badge&logo=AdobePremierePro&logoColor=fff" alt="Adobe Premiere Pro" style="border-radius:15px"/>
-<br/>
-    <img src="https://img.shields.io/badge/Adobephotoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=fff" alt="AdobePhotoshop" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/AstroCorporation - Web Development Company-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/>
 <br>
-    <img src="https://img.shields.io/badge/C++-171717?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++" style="border-radius:15px"/>
 </div>
 <br><br>
  <b>📞 Contact</b>
 
-- Email: ayhername@gmail.com
-- Website: [amiraliabbasi.ir] Coming Soon
+- Email: [ayhername@gmail.com](mailto:ayhername@gmail.com)
+- Website: [amiraliabbasi.ir](https://www.amiraliabbasi.ir) Coming Soon
 - LinkedIn: [Amirali Abbasi](https://www.linkedin.com/in/amirali-abbasi-a36b90286)
 <br><br>
 
