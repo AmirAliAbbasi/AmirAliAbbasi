@@ -42,7 +42,7 @@
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/badge/AstroCorporation - Web Development Company-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/>
+    <img href="https://github.com/AstroCorporation" src="https://img.shields.io/badge/AstroCorporation - Web Development Company-171717?style=for-the-badge&logo=world&logoColor=fff" target="_blank" alt="" style="border-radius:15px"/>
 <br>
 </div>
 <br><br>
