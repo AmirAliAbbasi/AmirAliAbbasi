@@ -48,8 +48,8 @@
 <br><br>
  <b>📞 Contact</b>
 
-- Email: [ayhername@gmail.com](mailto:ayhername@gmail.com)
-- Website: [amiraliabbasi.ir](https://www.amiraliabbasi.ir) Coming Soon
+- Email: [ayhername@gmail.com](mailto:contact@theabbasi.ir)
+- Website: [amiraliabbasi.ir](https://theabbasi.ir)
 - LinkedIn: [Amirali Abbasi](https://www.linkedin.com/in/amirali-abbasi-a36b90286)
 <br><br>
 
