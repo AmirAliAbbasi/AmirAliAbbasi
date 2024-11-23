@@ -14,7 +14,8 @@
 </h1>
 <p align="center">
     <a href="https://instagram.com/pa9daa"><img src="https://img.shields.io/badge/Instagram-171717?style=for-the-badge&logo=instagram&logoColor=fff" style="border-radius:15px" alt="Instagram"></a>
-    <a href="https://discord.com/users/249383958289186816"><img src="https://img.shields.io/badge/Discord-171717?style=for-the-badge&logo=discord&logoColor=fff" style="border-radius:15px" alt="Discord"></a>
+    <a href="https://www.linkedin.com/in/amirali-abbasi-a36b90286/"><img src="https://img.shields.io/badge/Linkedin-171717?style=for-the-badge&logo=linkedin&logoColor=fff" style="border-radius:15px" alt="Linkedin"></a>
+      <a href="https://t.me/pa9daa"><img src="https://img.shields.io/badge/Telegram-171717?style=for-the-badge&logo=telegram&logoColor=fff" style="border-radius:15px" alt="Telegram"></a>
 </p>
 
 <br><br>
