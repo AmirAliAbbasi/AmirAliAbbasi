@@ -26,6 +26,7 @@
 
 <div align="center">
     <img src="https://img.shields.io/badge/Computer-171717?style=for-the-badge&logoColor=fff" alt="Computer" style="border-radius:15px"/>
+  <br>
     <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Adobe%20premier%20pro-171717?style=for-the-badge&logo=AdobePremierePro&logoColor=fff" alt="Adobe Premiere Pro" style="border-radius:15px"/>
 <br/>
