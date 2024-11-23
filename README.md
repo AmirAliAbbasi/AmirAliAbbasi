@@ -25,12 +25,15 @@
 </h1>
 
 <div align="center">
+    <img src="https://img.shields.io/badge/Computer-171717?style=for-the-badge&logoColor=fff" alt="Computer" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/python-171717?style=for-the-badge&logo=python&logoColor=fff" alt="python" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/Adobe%20premier%20pro-171717?style=for-the-badge&logo=AdobePremierePro&logoColor=fff" alt="Adobe Premiere Pro" style="border-radius:15px"/>
 <br/>
-    <img src="https://img.shields.io/badge/Adobephotoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=fff" alt="AdobePhotoshop" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Adobe%20Photoshop-171717?style=for-the-badge&logo=adobephotoshop&logoColor=fff" alt="AdobePhotoshop" style="border-radius:15px"/>
     <img src="https://img.shields.io/badge/HTML5-171717?style=for-the-badge&logo=html5&logoColor=fff" alt="HTML5" style="border-radius:15px"/>
-    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="CSS" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/CSS-171717?style=for-the-badge&logo=css3&logoColor=fff" alt="Css3" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/JavaScript-171717?style=for-the-badge&logo=javascript&logoColor=fff" alt="Js" style="border-radius:15px"/>
+    <img src="https://img.shields.io/badge/Node.Js-171717?style=for-the-badge&logo=node.js&logoColor=fff" alt="Node.Js" style="border-radius:15px"/>
 <br>
     <img src="https://img.shields.io/badge/C++-171717?style=for-the-badge&logo=cplusplus&logoColor=fff" alt="C++" style="border-radius:15px"/>
 </div>
@@ -43,14 +46,12 @@
 </h1>
 
 <div align="center">
-    <a href="https://github.com/AstroCorporation" target="_blank"> <img src="https://img.shields.io/badge/AstroCorporation - Web Development Company-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/></a>
+    <a href="https://github.com/AstroCorporation" target="_blank"> <img src="https://img.shields.io/badge/AstroCorporation - Web Service Company-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/></a>
 <br>
 </div>
 <br><br>
  <b>📞 Contact</b>
 
-- Email: [ayhername@gmail.com](mailto:contact@theabbasi.ir)
-- Website: [amiraliabbasi.ir](https://theabbasi.ir)
-- LinkedIn: [Amirali Abbasi](https://www.linkedin.com/in/amirali-abbasi-a36b90286)
+- Email: [contact@amiraliabbasi.ir](mailto:contact@amiraliabbasi.ir)
 <br><br>
 
