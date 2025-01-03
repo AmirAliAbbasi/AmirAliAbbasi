@@ -47,7 +47,7 @@
 </h1>
 
 <div align="center">
-    <a href="https://github.com/AstroCorporation" target="_blank"> <img src="https://img.shields.io/badge/AstroCorporation - Web Service Company-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/></a>
+    <a href="https://github.com/0xV1S10N" target="_blank"> <img src="https://img.shields.io/badge/0xV1S10N - Development Team-171717?style=for-the-badge&logo=world&logoColor=fff" alt="" style="border-radius:15px"/></a>
 <br>
 </div>
 <br><br>
